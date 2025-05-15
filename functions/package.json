@@ -6,8 +6,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "axios": "^0.21.1",
-    "cheerio": "^1.0.0-rc.3",
+    "axios": "^0.30.0",
+    "cheerio": "^1.0.0",
     "node-cache": "^4.2.0"
   },
   "devDependencies": {
